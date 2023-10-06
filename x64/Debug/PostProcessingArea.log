@@ -1,0 +1,33 @@
+﻿D:\Program Files\Microsoft\VisualStudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PostProcessingArea.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CWaterGrid.cpp
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(28,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(29,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(30,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(31,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(76,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(125,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(132,81): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(132,53): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(135,117): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(135,86): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(198,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(201,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(205,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(206,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(210,71): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(210,33): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(214,75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(215,116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(216,116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(221,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(222,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(223,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(228,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(229,100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(230,100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(261,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(271,80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(281,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(291,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\CWaterGrid.cpp(329,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PostProcessingArea.vcxproj -> D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\WaterSimulation.exe

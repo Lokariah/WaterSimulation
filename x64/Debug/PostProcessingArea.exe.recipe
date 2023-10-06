@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\PostProcessingArea.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\TintedTexture_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\BasicTransform_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\PixelLighting_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\PixelLighting_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

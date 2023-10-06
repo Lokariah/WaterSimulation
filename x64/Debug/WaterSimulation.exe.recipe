@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\WaterSimulation.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\2DQuad_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\Copy_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\Refraction_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\ScreenSpaceReflections_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\ScreenSpaceRefractions_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\TintedTexture_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\BasicTransform_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\PixelLighting_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\PixelLighting_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\ThirdYearProject\WaterSimulation\WaterCombined_ps.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

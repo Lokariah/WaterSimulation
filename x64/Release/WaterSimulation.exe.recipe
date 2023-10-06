@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\WaterSimulation.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\2DQuad_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\BasicTransformWorldHeight_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\Copy_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\WorldHeight_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\ScreenSpaceReflections_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\ScreenSpaceRefractions_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\TintedTexture_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\BasicTransform_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\PixelLighting_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\PixelLighting_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Caitlynn\Documents\UniWork\Year1-3\ThirdYearProject\WaterSimulation\WaterCombined_ps.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
